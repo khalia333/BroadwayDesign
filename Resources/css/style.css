@@ -37,7 +37,7 @@ p {
   background-image: url(../images/the-flatiron-building.png)
 }
 
-.footer {
+.footer p {
   font-size: 11px;
   color: white;
   background-color: dimgray;
