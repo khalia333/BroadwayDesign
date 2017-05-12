@@ -31,3 +31,19 @@ h3 {
 p {
   font-size: 14px;
 }
+
+.NewYork {
+  color: white;
+  background-image: url(../images/the-flatiron-building.png)
+}
+
+.footer {
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+  text-align: left;
+}
+
+.footernav {
+  color: white;
+}
